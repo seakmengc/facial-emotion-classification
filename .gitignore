@@ -1,7 +1,8 @@
-cv2
+
 checkpoints
 data
 dataset
 lightning_logs
 logs
 .vscode
+cv2
